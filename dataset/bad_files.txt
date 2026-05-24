@@ -1,0 +1,4 @@
+0	audio	/hdd/srt11/data_8844/Cut2/audio/S01E19/S01E19-3-6.wav	/hdd/srt11/data_8844/Cut2/audio/S01E19/S01E19-3-6.wav not found
+0	video	/hdd/srt11/data_8844/Cut2/video/S01E19/S01E19-3-6.mp4	/hdd/srt11/data_8844/Cut2/video/S01E19/S01E19-3-6.mp4 not found
+777	audio	/hdd/srt11/data_8844/Cut2/audio/S01E18/S01E18-3-5.wav	/hdd/srt11/data_8844/Cut2/audio/S01E18/S01E18-3-5.wav not found
+777	video	/hdd/srt11/data_8844/Cut2/video/S01E18/S01E18-3-5.mp4	/hdd/srt11/data_8844/Cut2/video/S01E18/S01E18-3-5.mp4 not found

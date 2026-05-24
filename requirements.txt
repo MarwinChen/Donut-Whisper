@@ -1,0 +1,15 @@
+accelerate>=0.29.0
+datasets
+decord
+evaluate
+ffmpeg-python
+jiwer
+more_itertools
+numpy
+openai-whisper
+opencv-python
+peft>=0.10.0
+soundfile
+torch>=2.1.0
+tqdm
+transformers>=4.39.2
